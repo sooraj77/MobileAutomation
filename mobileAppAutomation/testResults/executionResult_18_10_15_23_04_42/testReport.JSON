@@ -1,0 +1,10 @@
+{
+    "test_001_verifyPurchaseItem":{
+        "end":"18-11-15 23:06:23",
+        "screenshot":"./test_001_verifyPurchaseItem_18_11_15_23_06_20.png",
+        "start":"18-11-15 23:05:00",
+        "result":"PASS",
+        "duration":"0:01:23",
+        "message":""
+    }
+}

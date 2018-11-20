@@ -1,0 +1,12 @@
+#Mobile App Test Automation Framework
+
+#Setup
+1. Install Appium
+2. Install appium python-client
+3. From framework root-dir run "python testRunner.py"
+
+Other Info
+1. testcases are written and kept in testsuites/ dir
+2. configurations are in configuration/ dir
+3. libraries (both test libraries and support/helper/utitlity libraries) are in libraries/ dir
+4. test results can be found in testResults/ dir
